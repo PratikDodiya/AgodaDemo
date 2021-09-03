@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="transparent">#00FFFFFF</color>
+    <color name="orange">#fb872b</color><!--BG color- CustomRatingBar-->
+    <color name="yellow">#FFD40F</color><!--Wallet Arrow Color-->
+    <color name="gray_light">#DFDFDF</color>
+</resources>
